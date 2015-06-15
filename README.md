@@ -1,6 +1,6 @@
 # A-Welzijn loading-on-button
 
-v1.0.2
+v1.0.3
 
 ### Hoe het eruit ziet
 
@@ -15,7 +15,7 @@ v1.0.2
 ```
 ```javascript
 var app = angular.module('yourApp', [
-	'awelzijn.loading-on-button'
+	'awelzijn.loadingonbutton'
 ]);
 ```
 
