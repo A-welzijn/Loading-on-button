@@ -1,9 +1,9 @@
 'use strict';
 (function (module) {
   try {
-    module = angular.module('awelzijn.loading-on-button');
+    module = angular.module('awelzijn.loadingonbutton');
   } catch (e) {
-    module = angular.module('awelzijn.loading-on-button', []);
+    module = angular.module('awelzijn.loadingonbutton', []);
   }
   module.directive('awelzijnLoadingOnButton', [function () {
     return {
